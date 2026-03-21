@@ -1,5 +1,5 @@
 <?php
-// 1. Initialize the Google Client first to avoid the null error
+//Initialize the Google Client first to avoid the null error
 require_once 'vendor/autoload.php';
 
 $clientID = '1010060076471-3drv39bou44hmvm2lur96bmjnuak7t7k.apps.googleusercontent.com';
